@@ -4,7 +4,7 @@ PX4 SITL ve Gazebo üzerinde simüle edilen sabit kanatlı bir İHA (RC Cessna),
 
 **Hazırlayan:** Şevketcan Sezen
 
-📹 **Uçuş videosu:** _(eklenecek)_
+📹 **Uçuş videosu:** [YouTube'da izle](https://youtu.be/XtMk5ahv2uw)
 
 📄 [Teori dokümanı](docs/teori.md) · [Teknik rapor](docs/rapor.md)
 
