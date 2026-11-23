@@ -18,7 +18,7 @@ PX4 SITL ve Gazebo üzerinde simüle edilen sabit kanatlı bir İHA (RC Cessna),
 src/mission_runner.py   Görevi doğrulayan, başlatan ve izleyen ana kod (bonus telemetri dahil)
 src/connect_test.py     Sadece bağlantı ve sağlık durumunu test eden kısa kod
 missions/rota_1.plan    QGroundControl'de hazırlanan uçuş rotası
-docs/teori.md           PX4, SITL, Gazebo, QGC, MAVLink, MAVSDK, ROS 2
+docs/teori.md           PX4, SITL, Gazebo, QGC, MAVLink, MAVSDK
 docs/rapor.md           Sistemin çalışma mantığı
 docs/img/               Ekran görüntüleri
 ```
